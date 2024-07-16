@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexicon version="1.0"
+
+      xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+
+      xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
+
+        http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
+
+      alphabet="ipa" xml:lang="de-DE">
+
+    <lexeme>
+
+        <grapheme>pay</grapheme>
+
+        <phoneme>pɛːɪ</phoneme>
+
+    </lexeme>
+
+    <lexeme>
+
+        <grapheme>Girokonto</grapheme>
+
+        <phoneme>ʒiːʁoːkɔˌn.toː</phoneme>
+
+    </lexeme>
+
+    <lexeme>
+
+        <grapheme>Fonds</grapheme>
+
+        <phoneme>fɔˈŋs</phoneme>
+
+    </lexeme>
+
+    <lexeme>
+
+        <grapheme>ETFs</grapheme>
+
+        <phoneme>ʔeːˈteːʔɛˈfˈs</phoneme>
+
+    </lexeme>
+
+    <lexeme>
+
+        <grapheme>money meyte</grapheme>
+
+        <alias>money mate</alias>
+
+    </lexeme>
+
+    <lexeme>
+
+        <grapheme>€</grapheme>
+
+        <alias>Euro</alias>
+
+    </lexeme>
+
+    <lexeme>
+
+        <grapheme>p.a.</grapheme>
+
+        <alias>pro Jahr</alias>
+
+    </lexeme>
+
+    <lexeme>
+
+        <grapheme>ccm</grapheme>
+
+        <alias>Kubikzentimeter</alias>
+
+    </lexeme>
+
+    <lexeme>
+
+        <grapheme>z.B.</grapheme>
+
+        <alias>zum Beispiel</alias>
+
+    </lexeme>
+
+</lexicon>
+
